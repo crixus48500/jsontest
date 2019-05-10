@@ -14,5 +14,21 @@
     "coordinates": [126.6, 10.1],
     "value": 60
   }
+],
+  "C07-13":[
+  {
+    "id": 123,
+    "room": "C07-14",
+    "type": "temperature",
+    "coordinates": [125.6, 10.1],
+    "value": 20
+  },
+  {
+    "id": 258,
+    "room": "C07-14",
+    "type": "moisture",
+    "coordinates": [126.6, 10.1],
+    "value": 60
+  }
 ]
 }
